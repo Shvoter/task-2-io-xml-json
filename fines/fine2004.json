@@ -1,0 +1,23 @@
+[
+  {
+    "date_time": "2004-01-01 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "SPEEDING",
+    "fine_amount": 100.00
+  },
+  {
+    "date_time": "2004-07-07 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "FRAUD",
+    "fine_amount": 300.00
+  },
+  {
+    "date_time": "2004-09-09 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "STEALING",
+    "fine_amount": 400.00
+  }
+]
